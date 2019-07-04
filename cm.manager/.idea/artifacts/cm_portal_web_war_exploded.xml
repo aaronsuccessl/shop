@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cm.portal.web:war exploded">
+    <output-path>$PROJECT_DIR$/../cm.portal.web/target/cm.portal.web-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cm.portal.web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../cm.portal.web/target/cm.portal.web-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="cm.portal.web/web/Web" />
+    </root>
+  </artifact>
+</component>

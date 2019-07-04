@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../cm.content/cm.content.service" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.manager.web" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.manager.service" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.order.web" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.order/cm.order.service" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.portal.web" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.search.web" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.search/cm.search.service" />
+    <file type="web" url="file://$PROJECT_DIR$/../cm.sso/cm.sso.service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.content/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.search/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.order/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../cm.content/cm.content.interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.content/cm.content.service/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.content/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager.dao/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager.interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager.pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager.service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.order/cm.order.interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.order/cm.order.service/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.order/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.search/cm.search.interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.search/cm.search.service/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.search/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.sso/cm.sso.interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.sso/cm.sso.service/pom.xml" />
+        <option value="$PROJECT_DIR$/../cm.sso/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

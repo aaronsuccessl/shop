@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ShopDev.iml" filepath="$PROJECT_DIR$/.idea/ShopDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.common/cm.common.iml" filepath="$PROJECT_DIR$/cm.common/cm.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.content/cm.content.iml" filepath="$PROJECT_DIR$/cm.content/cm.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.content/cm.content.interface/cm.content.interface.iml" filepath="$PROJECT_DIR$/cm.content/cm.content.interface/cm.content.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.content/cm.content.service/cm.content.service.iml" filepath="$PROJECT_DIR$/cm.content/cm.content.service/cm.content.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager/cm.manager.iml" filepath="$PROJECT_DIR$/cm.manager/cm.manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager/cm.manager.dao/cm.manager.dao.iml" filepath="$PROJECT_DIR$/cm.manager/cm.manager.dao/cm.manager.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager/cm.manager.interface/cm.manager.interface.iml" filepath="$PROJECT_DIR$/cm.manager/cm.manager.interface/cm.manager.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager/cm.manager.pojo/cm.manager.pojo.iml" filepath="$PROJECT_DIR$/cm.manager/cm.manager.pojo/cm.manager.pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager/cm.manager.service/cm.manager.service.iml" filepath="$PROJECT_DIR$/cm.manager/cm.manager.service/cm.manager.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.manager.web/cm.manager.web.iml" filepath="$PROJECT_DIR$/cm.manager.web/cm.manager.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.order/cm.order.iml" filepath="$PROJECT_DIR$/cm.order/cm.order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.order/cm.order.interface/cm.order.interface.iml" filepath="$PROJECT_DIR$/cm.order/cm.order.interface/cm.order.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.order/cm.order.service/cm.order.service.iml" filepath="$PROJECT_DIR$/cm.order/cm.order.service/cm.order.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.order.web/cm.order.web.iml" filepath="$PROJECT_DIR$/cm.order.web/cm.order.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.parent/cm.parent.iml" filepath="$PROJECT_DIR$/cm.parent/cm.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.portal.web/cm.portal.web.iml" filepath="$PROJECT_DIR$/cm.portal.web/cm.portal.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.search/cm.search.iml" filepath="$PROJECT_DIR$/cm.search/cm.search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.search/cm.search.interface/cm.search.interface.iml" filepath="$PROJECT_DIR$/cm.search/cm.search.interface/cm.search.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.search/cm.search.service/cm.search.service.iml" filepath="$PROJECT_DIR$/cm.search/cm.search.service/cm.search.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.search.web/cm.search.web.iml" filepath="$PROJECT_DIR$/cm.search.web/cm.search.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.sso/cm.sso.iml" filepath="$PROJECT_DIR$/cm.sso/cm.sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.sso/cm.sso.interface/cm.sso.interface.iml" filepath="$PROJECT_DIR$/cm.sso/cm.sso.interface/cm.sso.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cm.sso/cm.sso.service/cm.sso.service.iml" filepath="$PROJECT_DIR$/cm.sso/cm.sso.service/cm.sso.service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cm.common" target="1.7" />
+      <module name="cm.content" target="1.5" />
+      <module name="cm.content.interface" target="1.5" />
+      <module name="cm.content.service" target="1.5" />
+      <module name="cm.manager" target="1.5" />
+      <module name="cm.manager.dao" target="1.5" />
+      <module name="cm.manager.interface" target="1.5" />
+      <module name="cm.manager.pojo" target="1.5" />
+      <module name="cm.manager.service" target="1.5" />
+      <module name="cm.manager.web" target="1.5" />
+      <module name="cm.order" target="1.5" />
+      <module name="cm.order.interface" target="1.5" />
+      <module name="cm.order.service" target="1.5" />
+      <module name="cm.order.web" target="1.5" />
+      <module name="cm.parent" target="1.5" />
+      <module name="cm.portal.web" target="1.5" />
+      <module name="cm.search" target="1.5" />
+      <module name="cm.search.interface" target="1.5" />
+      <module name="cm.search.service" target="1.5" />
+      <module name="cm.search.web" target="1.5" />
+      <module name="cm.sso" target="1.5" />
+      <module name="cm.sso.interface" target="1.5" />
+      <module name="cm.sso.service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

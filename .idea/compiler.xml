@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cm.common" />
+        <module name="cm.content.interface" />
+        <module name="cm.content.service" />
+        <module name="cm.manager.dao" />
+        <module name="cm.manager.interface" />
+        <module name="cm.manager.pojo" />
+        <module name="cm.manager.service" />
+        <module name="cm.manager.web" />
+        <module name="cm.order.interface" />
+        <module name="cm.order.service" />
+        <module name="cm.order.web" />
+        <module name="cm.portal.web" />
+        <module name="cm.search.interface" />
+        <module name="cm.search.service" />
+        <module name="cm.search.web" />
+        <module name="cm.sso.interface" />
+        <module name="cm.sso.service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="cm.common" target="1.7" />
+      <module name="cm.content" target="1.7" />
+      <module name="cm.content.interface" target="1.7" />
+      <module name="cm.content.service" target="1.7" />
+      <module name="cm.manager" target="1.7" />
+      <module name="cm.manager.dao" target="1.7" />
+      <module name="cm.manager.interface" target="1.7" />
+      <module name="cm.manager.pojo" target="1.7" />
+      <module name="cm.manager.service" target="1.7" />
+      <module name="cm.manager.web" target="1.7" />
+      <module name="cm.order" target="1.8" />
+      <module name="cm.order.interface" target="1.8" />
+      <module name="cm.order.service" target="1.8" />
+      <module name="cm.order.web" target="1.8" />
+      <module name="cm.parent" target="1.7" />
+      <module name="cm.portal.web" target="1.7" />
+      <module name="cm.search" target="1.8" />
+      <module name="cm.search.interface" target="1.8" />
+      <module name="cm.search.service" target="1.8" />
+      <module name="cm.search.web" target="1.8" />
+      <module name="cm.sso" target="1.7" />
+      <module name="cm.sso.interface" target="1.7" />
+      <module name="cm.sso.service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

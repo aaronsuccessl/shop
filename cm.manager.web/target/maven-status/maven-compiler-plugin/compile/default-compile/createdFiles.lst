@@ -1,0 +1,4 @@
+com\manager\controller\ItemController.class
+com\manager\controller\PageController.class
+com\manager\controller\ItemCatController.class
+com\manager\controller\DefaultController.class

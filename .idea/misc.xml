@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cm.content/cm.content.service" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.manager.web" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.manager/cm.manager.service" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.order.web" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.order/cm.order.service" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.portal.web" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.search.web" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.search/cm.search.service" />
+    <file type="web" url="file://$PROJECT_DIR$/cm.sso/cm.sso.service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cm.common/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.content/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.manager.web/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.order/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.order.web/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.parent/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.portal.web/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.search/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.search.web/pom.xml" />
+        <option value="$PROJECT_DIR$/cm.sso/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
